@@ -11,8 +11,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.cpp",
-        "main.ts"
+        "main.ts",
+        "source/main.cpp"
     ],
     "testFiles": [
         "test.ts"
