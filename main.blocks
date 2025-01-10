@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="GJ7S8G8EhxJO%Z00S_^V" x="0" y="0"><statement name="HANDLER"><block type="typescript_statement" id="N}LLr,$-b9fFX!U5$T^a"><mutation xmlns="http://www.w3.org/1999/xhtml" line0="namespace hello {" line1="    //% block" line2="    export function multiply(input: number, factor: number) {" line3="        return 1234;" line4="    }" line5="}" numlines="6"></mutation></block></statement></block></xml>
